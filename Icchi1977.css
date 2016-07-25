@@ -1,13 +1,15 @@
 header h1 {
     font-size: 1.8em;
     font-family: serif;
-    border-left: 10px solid red;
+    border-left: 10px #dc143c;
     margin: 0px 30px;
+    color: #dc143c;
 }
 header h2 {
     font-size: 0.3em;
     font-family: serif;
-    border-left: 10px solid red;
+    border-left: 10px #dc143c;
     margin: 0px 30px;
+    color: #dc143c;
 }
     
