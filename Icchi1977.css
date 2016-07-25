@@ -1,0 +1,12 @@
+header h1 {
+    font-size: 1.8em;
+    font-family: serif;
+    border-left: 10px solid red;
+}
+header h2 {
+    font-size: 0.6em;
+    font-family: serif;
+    border-left: 10px solid red;
+    border-width: 0px 3px 3px 3px
+}
+    
